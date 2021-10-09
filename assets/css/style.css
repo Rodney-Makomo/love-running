@@ -55,3 +55,10 @@ color: inherit;
 .active{
 text-decoration: underline;
 }
+
+/* Hero image*/
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.webp') no-repeat center center;
+}
