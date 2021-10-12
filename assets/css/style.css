@@ -161,7 +161,6 @@ text-decoration: underline;
     padding-top: 30px;
     width: 33%;
     margin: 0 auto;
-    
 }
 
 
@@ -213,7 +212,7 @@ hr{
 }
 
 #circle-cover-bg {
-    background: url('../images/ethos-center-image.jpg') no repeat center center;
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
